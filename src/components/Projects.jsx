@@ -43,7 +43,7 @@ function Projects() {
             <Button
               className="btn btn-primary"
               size="sm"
-              href="https://github.com/shramika-poojary/college-event-booking-system.git"
+              href="https://github.com/shramika-poojary/campus-event-booking-system.git"
               target="_blank"
             >
               GitHub Repo
