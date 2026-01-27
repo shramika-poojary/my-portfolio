@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This repository contains the source co
 ---
 
 ## 🌐 Live Demo
-Check out the live website here: <a href="https://my-portfolio-theta-ebon.vercel.app/">Live Link</>
+Check out the live website here: <a href="https://my-portfolio-theta-ebon.vercel.app/">Live Link
 
 ---
 
