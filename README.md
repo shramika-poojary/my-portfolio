@@ -31,7 +31,7 @@ This portfolio website is built to demonstrate my skills in **Full Stack Develop
 ## ✨ Author
 **Shramika Poojary**  
 - GitHub: [Shramika Poojary](https://github.com/shramika-poojary)  
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/shramika-poojary-789b27288)  
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/shramika-poojary-789b27288/)  
 - Email: shramikapoojary62@gmail.com
 
 ---
