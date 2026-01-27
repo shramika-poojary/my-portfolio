@@ -1,16 +1,39 @@
-# React + Vite
+# Full Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This repository contains the source code for my portfolio, where I showcase my projects, skills, and professional experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+Check out the live website here: <a href="https://my-portfolio-theta-ebon.vercel.app/">Live Link</>
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💡 About
+This portfolio website is built to demonstrate my skills in **Full Stack Development** and provide a platform to share my projects, achievements, and contact information with potential employers and collaborators.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚡ Features
+- Responsive and mobile-friendly design  
+- Sections for **About Me**, **Skills**, **Projects**, **Education**, and **Contact**  
+- Interactive UI with smooth scrolling and subtle animations   
+- Links to GitHub, LinkedIn, and other social profiles  
+
+---
+
+## 🛠 Technologies Used
+- **Frontend:** React.js  
+- **Styling / UI:** Bootstrap, CSS  
+- **Version Control:** Git & GitHub    
+
+---
+
+## ✨ Author
+**Shramika Poojary**  
+- GitHub: [Shramika Poojary](https://github.com/shramika-poojary)  
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/shramika-poojary-789b27288)  
+- Email: shramikapoojary62@gmail.com
+
+---
+
+
