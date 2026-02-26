@@ -2,7 +2,7 @@ import { Card, Button, Badge, Row, Col } from "react-bootstrap";
 
 import eventverseImg from "../assets/images/eventverse.png";
 import campushireImg from "../assets/images/campusHire.jpeg";
-
+import shopcircleImg from "../assets/images/ShopCircle.png";
 function Projects() {
   return (
     <Card className="section-card border-0 shadow-sm">
@@ -52,6 +52,49 @@ function Projects() {
         </Row>
 
         {/* Project 2 */}
+        <Row className="mb-5 align-items-center text-warning">
+          <Col md={4}>
+            <img
+              src={shopcircleImg}
+              alt="ShopCircle Project"
+              className="img-fluid rounded project-img"
+            />
+          </Col>
+
+          <Col md={8}>
+            <h5>ShopCircle – Multi-vendor marketplace system</h5>
+
+            {/* Tech Stack */}
+            <div className="mb-2">
+              <Badge bg="primary" className="me-2">Java</Badge>
+              <Badge bg="primary" className="me-2">Spring Boot</Badge>
+              <Badge bg="secondary" className="me-2">React.js</Badge>
+              <Badge bg="success" className="me-2">Bootstrap</Badge>
+              <Badge bg="secondary" className="me-2">Javascript</Badge>
+              <Badge bg="dark">MySQL</Badge>
+            </div>
+
+            {/* STAR Method */}
+            <ul>
+              <li>Small business lack a centralized digital platform to manage products and reach customers efficiently.</li>
+              <li>Develop a secure full-stack multi-vendor marketplace system enabling vendors to manage products and customers to browse, add to cart, and place orders.</li>
+              <li>
+               Developed RESTful APIs using Spring Boot, implemented JWT-based role authentication (Customer/Vendor), applied layered architecture principles, designed relational schema with MySQL & JPA, and built a dynamic frontend using React.js with Axios for API integration and Bootstrap for responsive UI design.</li>
+              <li>Successfully built a end-to-end e-commerce workflow with secure authentication, role-based access control, and seamless frontend-backend integration.</li>
+            </ul>
+
+            <Button
+              className="btn btn-primary"
+              size="sm"
+              href="https://github.com/shramika-poojary/multi-vendor-marketplace-system"
+              target="_blank"
+            >
+              GitHub Repo
+            </Button>
+          </Col>
+        </Row>
+
+        {/* Project 3 */}
         <Row className="align-items-center">
           <Col md={4}>
             <img
@@ -80,7 +123,7 @@ function Projects() {
               <li>Improved real-time updates, secure access, and placement tracking.</li>
             </ul>
 
-            
+
           </Col>
         </Row>
       </Card.Body>
