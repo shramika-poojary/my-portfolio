@@ -26,7 +26,7 @@ function Achievements() {
               Inter-Collegiate Research Convention 2024 (Thane West Zone).
             </p>
 
-            <Badge bg="primary">View Project Achievement</Badge>
+            <Badge bg="primary">Achievement</Badge>
           </div>
         </div>
       </Card.Body>
