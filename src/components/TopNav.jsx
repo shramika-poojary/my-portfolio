@@ -43,7 +43,14 @@ function TopNav({ active, setActive }) {
           Achievements
         </button>
       </li>
-       
+       <li className="nav-item">
+        <button
+          className={`nav-link ${active === "certifications" ? "active" : ""}`}
+          onClick={() => setActive("certifications")}
+        >
+          Certifications
+        </button>
+      </li>
     </ul>
   
   );

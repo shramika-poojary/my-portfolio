@@ -7,6 +7,7 @@ import Education from "./components/Education";
 import Projects from "./components/Projects";
 import Achievements from "./components/Achievements";
 import MobileNavbar from "./components/MobileNavbar";
+import Certifications from "./components/Certifications";
 
 function App() {
   const [activeSection, setActiveSection] = useState("about");
@@ -21,6 +22,8 @@ function App() {
         return <Education />;
       case "achievements":
         return <Achievements />;
+      case "certifications":
+        return <Certifications />;
       default:
         return <About />;
     }
